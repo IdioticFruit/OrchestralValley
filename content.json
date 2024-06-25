@@ -1,0 +1,305 @@
+{
+    "Format": "2.0.0",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries": {
+                "{{ModId}}_Music": {
+                    "ID": "MainTheme",
+                    "Category": "Music",
+                    "FilePaths": [ "{{AbsoluteFilePath: assets/Stardew Valley Overtune.ogg}}" ],
+                    "StreamedVorbis": true,
+                    "Looped": false
+                }
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries": {
+                "{{ModId}}_Music": {
+                    "ID": "CloudCountry",
+                    "Category": "Music",
+                    "FilePaths": [ "{{AbsoluteFilePath: assets/Cloud County.ogg}}" ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+            }
+        }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "grandpas_theme",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/Grandpa's Theme Celeste.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "SettlingIn",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/Settling In.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "spring1",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/(Spring) It's a Big World Outside.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "spring2",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/Spring (Wild Horseradish Jam).ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "{{ModId}}_Music",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/Pelican Town.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "FlowerDance",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/Flower Dance.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "{{ModId}}_Music",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/Fun Festival.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "{{ModId}}_Music",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/Summer Tropicala.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "{{ModId}}_Music",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/Adventure Guild.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "{{ModId}}_Music",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/Stardrop Saloon.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "{{ModId}}_Music",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/Dance of the moonlight jellies.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "{{ModId}}_Music",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/The Smell of mushrooms.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "{{ModId}}_Music",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/Ghost Synth v2.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "{{ModId}}_Music",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/Raven's Decent.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "{{ModId}}_Music",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/Stardew Valley Fair theme.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "{{ModId}}_Music",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/Spirit's eve festival.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "{{ModId}}_Music",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/Winter Nocturne of Ice.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "{{ModId}}_Music",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/The wind can be still (Scuffed).ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "{{ModId}}_Music",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/Ancient.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "{{ModId}}_Music",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/Winter Festival.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/AudioChanges",
+        "Entries": {
+            "{{ModId}}_Music": {
+                "ID": "{{ModId}}_Music",
+                "Category": "Music",
+                "FilePaths": [ "{{AbsoluteFilePath: assets/Country Shop.ogg}}" ],
+                "StreamedVorbis": true,
+                "Looped": true
+        }
+    }
+    }
+
+    ]
+}
